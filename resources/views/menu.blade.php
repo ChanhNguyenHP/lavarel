@@ -61,7 +61,7 @@ textarea {
 }
 
 #cartItems {
-
+    color: #000;
 }
 .box-checkout{
     position: absolute;
