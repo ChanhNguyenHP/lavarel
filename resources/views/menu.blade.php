@@ -50,7 +50,7 @@ textarea {
     cursor: pointer;
 }
 .cart-header {
-    padding-top: 4rem;
+    padding-top: 5rem;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
