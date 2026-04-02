@@ -11,10 +11,10 @@ body {
     margin: 0;
     font-family: Arial;
     background: #f5f5f5;
-  font-size: 1.6rem;
-  line-height: 1.55;
-  color: #000;
-  overflow: hidden auto; }
+    font-size: 1.6rem;
+    line-height: 1.55;
+    color: #000;
+    overflow: hidden auto; }
  
 a {
   text-decoration: none;
